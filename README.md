@@ -29,7 +29,7 @@ Certifique-se de ter o Node.js e o npm (ou Yarn) instalados em sua máquina.
 
 1. Clone o repositório:
 
-        git clone https://github.com/seu-usuario/nome-do-repositorio.git
+        git clone https://github.com/MayconMoreira/tasks.git
 
 2. Navegue até o diretório do projeto:
     
