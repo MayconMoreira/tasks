@@ -52,17 +52,13 @@ Usando npm:
 Isso iniciará a aplicação em http://localhost:5173. Você pode abrir esta URL em seu navegador para ver o aplicativo em execução.
 
 Scripts:
+
     npm run dev: Inicia o servidor de desenvolvimento.
+
     npm run build: Cria uma versão otimizada para produção.
+
     npm run preview: Visualiza a versão de produção localmente.
 
-Estrutura do Projeto
-src/: Contém o código fonte da aplicação.
-    components/: Componentes Vue reutilizáveis.
-    stores/: Armazena os stores do Pinia para gerenciamento de estado.
-public/: Arquivos estáticos e configuração do Vite.
-index.html: Arquivo principal HTML.
-vite.config.js: Configuração do Vite.
+Maycon Moreira - moreira.maycon98@gmail.com
 
-Seu Nome - seu-email@example.com
-GitHub - seu-usuario
+GitHub - MayconMoreira
