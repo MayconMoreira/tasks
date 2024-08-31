@@ -29,7 +29,7 @@ Certifique-se de ter o Node.js e o npm (ou Yarn) instalados em sua máquina.
 
 1. Clone o repositório:
 
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+        git clone https://github.com/seu-usuario/nome-do-repositorio.git
 
 2. Navegue até o diretório do projeto:
     
@@ -45,13 +45,13 @@ Execução
 
 Para iniciar o servidor de desenvolvimento, execute o seguinte comando:
 
-    Usando npm:
+Usando npm:
 
-        npm run dev
+    npm run dev
 
 Isso iniciará a aplicação em http://localhost:5173. Você pode abrir esta URL em seu navegador para ver o aplicativo em execução.
 
-Scripts
+Scripts:
     npm run dev: Inicia o servidor de desenvolvimento.
     npm run build: Cria uma versão otimizada para produção.
     npm run preview: Visualiza a versão de produção localmente.
